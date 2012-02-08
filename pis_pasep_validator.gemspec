@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "pis_pasep_validator/version"
 
 Gem::Specification.new do |s|
   s.name        = "pis_pasep_validator"
-  s.version     = PisPasepValidator::VERSION
+  s.version     = "0.0.1"
   s.authors     = ["Ricardo H."]
   s.email       = ["ricardohsd@gmail.com"]
   s.homepage    = ""
