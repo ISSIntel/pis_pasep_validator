@@ -9,9 +9,9 @@ PIS/PASEP validation for ActiveModel
 ## Usage
 
     class Person < ActiveRecord::Base
-      validates :identification, :pis_pasep => true
+      validates :pis, :pis_pasep => true
     end
 
 ## License
 
-Copyright (c) 2009-2012 nohup brasil, released under the MIT license
+Copyright (c) 2012 nohup brasil, released under the MIT license
